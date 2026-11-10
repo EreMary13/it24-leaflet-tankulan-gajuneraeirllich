@@ -1,5 +1,5 @@
 const map = L.map("map").setView(
-[8.3688, 124.8641], 17
+[8.3688, 124.8641], 20
 );
 L.tileLayer(
 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
